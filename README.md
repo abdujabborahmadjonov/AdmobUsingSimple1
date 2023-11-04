@@ -21,7 +21,7 @@ Admob using by Abdujabbor
     ca-app-pub-8556591133225509/1570862300
 ```
 
-** Id for rewarded ads**
+**Id for rewarded ads**
 ```
 ca-app-pub-8556591133225509/8922700722
 ```
